@@ -15,6 +15,8 @@ main img {
     height: 350px;
     object-fit: contain;
     padding: 20px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px black;
 }
 
 header {
