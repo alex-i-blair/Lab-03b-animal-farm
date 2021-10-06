@@ -14,9 +14,11 @@ main img {
     display: inline-flex;
     height: 350px;
     object-fit: contain;
-    padding: 20px;
-    border: 1px solid black;
-    box-shadow: 2px 2px 2px black;
+    padding: 0;
+    margin: 5px 10px 5px 0;
+    border: .5px solid black;
+    box-shadow: 2.5px 2.5px 2.5px black;
+    border-radius: 6px;
 }
 
 header {
